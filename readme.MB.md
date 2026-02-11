@@ -72,7 +72,7 @@ orders-sales-analysis/
 ---
 
 ## 📸 Dashboard Screenshots
-c:\Users\91832\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-04 104845.png
+![Dashboard Screenshot](![alt text](<Screenshot 2026-02-04 104845.png>))
 
 ---
 
