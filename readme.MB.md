@@ -69,10 +69,6 @@ orders-sales-analysis/
 - Category Performance
 - Discount Impact
 
----
-
-## 📸 Dashboard Screenshots
-![Dashboard Screenshot](![alt text](<Screenshot 2026-02-04 104845.png>))
 
 ---
 
